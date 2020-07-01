@@ -1,0 +1,437 @@
+ <!DOCTYPE html>
+ <html style=" margin: 0; padding: 0;height: 100%;width: 100%;">
+
+   <head>
+     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="x-apple-disable-message-reformatting">
+
+
+
+     <title></title>
+     <style>
+       html,
+       body {
+         margin: 0;
+         padding: 0;
+         height: 100%;
+         width: 100%;
+       }
+
+       @media only screen and (min-width: 650px) {
+         .resizeIt {
+           width: 650px;
+
+         }
+
+         .hideTo {
+           display: none;
+         }
+       }
+
+       @media only screen and (max-width: 649px) {
+         body {
+           background-color: lightblue;
+         }
+
+         .hide {
+           display: none;
+         }
+
+         .oneHundred {
+           width: 80%;
+         }
+       }
+
+       @media only screen and (max-width: 480px) {
+         .oneHundred {
+           width: 100%;
+         }
+
+       }
+
+     </style>
+   </head>
+
+   <body style="width:100%;height:100%;margin:0;padding:0;">
+     <table cellspacing="0" cellpadding="0" width="100%" bgcolor="#F4F4F4">
+       <tr>
+         <td>
+           <!--View in browser -->
+             <table cellspacing="0" cellpadding="0" width="100%" bgcolor="#F4F4F4">
+             <tr>
+               <td align="center">
+                 <h6 style="display:none;font-size:10px;margin-bottom:0px;margin-top:0px;margin-left:0px;margin-right:0px;font-family:sans-serif;font-weight:100;">
+                  NBA is back! Here is the schedule for the upcoming games. 
+                 </h6>
+               </td>
+             </tr>
+           </table>
+           <table cellspacing="0" cellpadding="0" width="100%" bgcolor="#F4F4F4">
+             <tr>
+               <td align="center">
+                 <h6 style="font-size:10.5px;font-family:sans-serif;font-weight:100;">
+                   NBA Schedule | View in browser
+                 </h6>
+               </td>
+             </tr>
+           </table>
+
+
+           <!--Main-->
+           <table class="resizeIt" align="center" width="100%">
+             <tr>
+               <td>
+                 <table class="oneHundred" cellspacing="0" align="center" cellpadding="0" width="80%" bgcolor="white">
+                   <!--NBA Logo-->
+                   <tr style="background:#001A43;">
+                     <td align="center">
+                       <img src="http://loodibee.com/wp-content/uploads/nba-logo-transparent-300x300.png" width="50" height="50">
+                     </td>
+                   </tr>
+
+                   <tr>
+                     <td>
+                       <table width="100%">
+                         <tr>
+                           <td>
+                             <!--Date-->
+                         <tr>
+                           <td align="center">
+
+                             <h4 style="font-family:sans-serif;">
+                               Thursday, July 30
+                             </h4>
+                           </td>
+                         </tr>
+
+                         <!--New Date at sm md screen size-->
+
+                         <!--schudule-->
+                         <tr>
+                           <td>
+                             <table cellspacing="0" cellpadding="0" bgcolor="" align="center" width="100%">
+                               <tr>
+                                 <td class="hide" bgcolor="" align="center">
+
+                                  <a style="text-decoration:none;color:black;" href="https://www.nba.com/games/20200730/UTANOP/?ss=watch#/matchup"> <h6 style="font-weight:400;font-family:sans-serif;line-height:140%;margin-top:10px;margin-bottom:15px;line-height:0%;"> 6:30 pm ET
+                                  </h6></a>
+                                   <img src="https://mcusercontent.com/c030a65346adfacab9a480f0b/images/b2c967a6-ab7f-4606-baa2-624e845d7972.png" width="15" height="15" style="line-height:0%;margin:0px;padding:0px;">
+                                 </td>
+                                 <td align="center">
+                                   <img src="http://loodibee.com/wp-content/uploads/nba-utah-jazz-logo-300x300.png" width="85" height="85">
+                                 </td>
+                                 <td width="10%" align="center">
+                                   <h5 style="font-family:sans-serif;">
+                                     VS.
+                                   </h5>
+
+                                 </td>
+                                 <td align="center">
+                                   <img src="http://loodibee.com/wp-content/uploads/nba-new-orleans-pelicans-logo-300x300.png" width="85" height="85">
+                                 </td>
+
+                               </tr>
+                             </table>
+                           </td>
+                         </tr>
+                         <tr>
+                           <td>
+                             <table cellspacing="0" cellpadding="0" bgcolor="" align="center" width="100%">
+                               <tr>
+                                 <td class="hide" bgcolor="" align="center">
+
+                                   <h6 style="font-weight:400;font-family:sans-serif;line-height:140%;margin-top:10px;margin-bottom:15px;line-height:0%;"> 6:30 pm ET
+                                   </h6>
+                                   <img src="https://mcusercontent.com/c030a65346adfacab9a480f0b/images/b2c967a6-ab7f-4606-baa2-624e845d7972.png" width="15" height="15" style="line-height:0%;margin:0px;padding:0px;">
+                                 </td>
+                                 <td align="center">
+                                   <img src="http://loodibee.com/wp-content/uploads/nba-la-clippers-logo-png-300x300.png" width="85" height="85">
+                                 </td>
+                                 <td width="10%" align="center">
+                                   <h5 style="font-family:sans-serif;">
+                                     VS.
+                                   </h5>
+
+                                 </td>
+                                 <td align="center">
+                                   <img src="http://loodibee.com/wp-content/uploads/nba-los-angeles-lakers-logo-300x300.png" width="85" height="85">
+                                 </td>
+
+                               </tr>
+                             </table>
+                           </td>
+                         </tr>
+
+
+                     </td>
+                   </tr>
+                 </table>
+               </td>
+             </tr>
+             <tr>
+               <td>
+
+               </td>
+             </tr>
+
+             <!--Date-->
+             <tr>
+               <td align="center">
+
+                 <h4 style="font-family:sans-serif;">
+                   Friday, July 31
+                 </h4>
+               </td>
+             </tr>
+             <!--schudule-->
+             <tr>
+               <td>
+                 <table cellspacing="0" cellpadding="0" bgcolor="" align="center" width="100%">
+                   <tr>
+                     <td class="hide" bgcolor="" align="center">
+
+                       <h6 style="font-weight:400;font-family:sans-serif;line-height:140%;margin-top:10px;margin-bottom:15px;line-height:0%;"> 2:30 pm ET
+                       </h6>
+
+                     </td>
+                     <td align="center">
+                       <img src="http://loodibee.com/wp-content/uploads/nba-orlando-magic-logo-300x300.png" width="85" height="85">
+                     </td>
+                     <td width="10%" align="center">
+                       <h5 style="font-family:sans-serif;">
+                         VS.
+                       </h5>
+
+                     </td>
+                     <td align="center">
+                       <img src="http://loodibee.com/wp-content/uploads/nba-brooklyn-nets-logo-300x300.png" width="85" height="85">
+                     </td>
+
+                   </tr>
+                 </table>
+               </td>
+             </tr>
+             <tr>
+               <td>
+                 <table cellspacing="0" cellpadding="0" bgcolor="" align="center" width="100%">
+                   <tr>
+                     <td class="hide" bgcolor="" align="center">
+
+                       <h6 style="font-weight:400;font-family:sans-serif;line-height:140%;margin-top:10px;margin-bottom:15px;line-height:0%;"> 4:00 pm ET
+                       </h6>
+                       <img src="https://im6.ezgif.com/tmp/ezgif-6-97d1a657cfc8.png" width="27" height="10" style="line-height:0%;margin:0px;padding:0px;">
+                     </td>
+                     <td align="center">
+                       <img src="http://loodibee.com/wp-content/uploads/nba-memphis-grizzlies-logo-300x300.png" width="85" height="85">
+                     </td>
+                     <td width="10%" align="center">
+                       <h5 style="font-family:sans-serif;">
+                         VS.
+                       </h5>
+
+                     </td>
+                     <td align="center">
+                       <img src="http://loodibee.com/wp-content/uploads/nba-portland-trail-blazers-logo-300x300.png" width="85" height="85">
+                     </td>
+
+                   </tr>
+                 </table>
+               </td>
+             </tr>
+             <tr>
+               <td>
+                 <table cellspacing="0" cellpadding="0" bgcolor="" align="center" width="100%">
+                   <tr>
+                     <td class="hide" bgcolor="" align="center">
+
+                       <h6 style="font-weight:400;font-family:sans-serif;line-height:140%;margin-top:10px;margin-bottom:15px;line-height:0%;"> 4:00 pm ET
+                       </h6>
+
+                     </td>
+                     <td align="center">
+                       <img src="http://loodibee.com/wp-content/uploads/nba-phoenix-suns-logo-300x300.png" width="85" height="85">
+                     </td>
+                     <td width="10%" align="center">
+                       <h5 style="font-family:sans-serif;">
+                         VS.
+                       </h5>
+
+                     </td>
+                     <td align="center">
+                       <img src="http://loodibee.com/wp-content/uploads/nba-washington-wizards-logo-300x300.png" width="85" height="85">
+                     </td>
+
+                   </tr>
+                 </table>
+               </td>
+             </tr>
+             <tr>
+               <td>
+                 <table cellspacing="0" cellpadding="0" bgcolor="" align="center" width="100%">
+                   <tr>
+                     <td class="hide" bgcolor="" align="center">
+
+                       <h6 style="font-weight:400;font-family:sans-serif;line-height:140%;margin-top:10px;margin-bottom:15px;line-height:0%;"> 6:30 pm ET
+                       </h6>
+                       <img src="https://mcusercontent.com/c030a65346adfacab9a480f0b/images/39902e35-577b-4fe1-a19c-310c33f08b86.png" width="35" height="35" style="line-height:0%;margin:0px;padding:0px;">
+                     </td>
+                     <td align="center">
+                       <img src="http://loodibee.com/wp-content/uploads/nba-boston-celtics-logo-300x300.png" width="85" height="85">
+                     </td>
+                     <td width="10%" align="center">
+                       <h5 style="font-family:sans-serif;">
+                         VS.
+                       </h5>
+
+                     </td>
+                     <td align="center">
+                       <img src="http://loodibee.com/wp-content/uploads/nba-milwaukee-bucks-logo-300x300.png" width="85" height="85">
+                     </td>
+
+                   </tr>
+                 </table>
+               </td>
+             </tr>
+             <tr>
+               <td>
+                 <table cellspacing="0" cellpadding="0" bgcolor="" align="center" width="100%">
+                   <tr>
+                     <td class="hide" bgcolor="" align="center">
+
+                       <h6 style="font-weight:400;font-family:sans-serif;line-height:140%;margin-top:10px;margin-bottom:15px;line-height:0%;"> 8:00 pm ET
+                       </h6>
+
+                     </td>
+                     <td align="center">
+                       <img src="http://loodibee.com/wp-content/uploads/nba-sacramento-kings-logo-300x300.png" width="85" height="85">
+                     </td>
+                     <td width="10%" align="center">
+                       <h5 style="font-family:sans-serif;">
+                         VS.
+                       </h5>
+
+                     </td>
+                     <td align="center">
+                       <img src="http://loodibee.com/wp-content/uploads/nba-san-antonio-spurs-logo-300x300.png" width="85" height="85">
+                     </td>
+
+                   </tr>
+                 </table>
+               </td>
+             </tr>
+             <tr>
+               <td>
+                 <table cellspacing="0" cellpadding="0" bgcolor="" align="center" width="100%">
+                   <tr>
+                     <td class="hide" bgcolor="" align="center">
+
+                       <h6 style="font-weight:400;font-family:sans-serif;line-height:140%;margin-top:10px;margin-bottom:15px;line-height:0%;"> 9:00 pm ET
+                       </h6>
+                       <img src="https://mcusercontent.com/c030a65346adfacab9a480f0b/images/39902e35-577b-4fe1-a19c-310c33f08b86.png" width="35" height="35" style="line-height:0%;margin:0px;padding:0px;">
+                     </td>
+                     <td align="center">
+                       <img src="http://loodibee.com/wp-content/uploads/nba-houston-rockets-logo-300x300.png" width="85" height="85">
+                     </td>
+                     <td width="10%" align="center">
+                       <h5 style="font-family:sans-serif;">
+                         VS.
+                       </h5>
+
+                     </td>
+                     <td align="center">
+                       <img src="http://loodibee.com/wp-content/uploads/nba-dallas-mavericks-logo-300x300.png" width="85" height="85">
+                     </td>
+
+                   </tr>
+                 </table>
+               </td>
+             </tr>
+           </table>
+         </td>
+       </tr>
+     </table>
+     <!--Footer -->
+     <table align="center" class="resizeIt" cellspacing="0" cellpadding="0" width="100%" bgcolor="#F4F4F4">
+       <tr>
+         <td>
+           <table class="oneHundred" cellspacing="0" cellpadding="0" width="80%" align="center" style="border-bottom:1px solid #d1d1d1;">
+             <tr>
+               <td>
+                 <table style="margin-top:5px;" cellspacing="0" cellpadding="0" align="center" width="150">
+
+                   <tr>
+                     <td align="center">
+
+                      <a href="https://www.facebook.com/nba/"> <img src="https://mcusercontent.com/c030a65346adfacab9a480f0b/images/0d680501-881b-4355-a3d9-b0883be6f652.png"></a>
+                     </td>
+                     <td align="center">
+
+                       <a href="https://twitter.com/NBA?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><img src="https://mcusercontent.com/c030a65346adfacab9a480f0b/images/31901d30-22f1-4c10-9687-abd56429efc1.png"></a>
+                     </td>
+                     <td align="center">
+                     <a href="https://www.instagram.com/nba/?hl=en"><img src="https://mcusercontent.com/c030a65346adfacab9a480f0b/images/61fa7c6c-c6c1-40a8-94b8-81105c866bf4.png"></a>
+
+                     </td>
+                     <td align="center">
+                     <a href="https://www.youtube.com/user/NBA"><img src="https://mcusercontent.com/c030a65346adfacab9a480f0b/images/9831988b-1903-439d-917a-c917794c9476.png"></a>
+
+                     </td>
+                     <td align="center">
+                     <a href="https://www.snapchat.com/add/nba"><img src="https://mcusercontent.com/c030a65346adfacab9a480f0b/images/fdac7796-9c7f-4866-aad0-40d7dca6b62f.png"></a>
+
+                     </td>
+                   </tr>
+                 </table>
+               </td>
+             </tr>
+           </table>
+           <table class="oneHundred" cellspacing="0" cellpadding="0" width="80%" align="center" style="border-bottom:1px solid #d1d1d1;">
+             <tr>
+               <td align="center">
+                 <h6 style="font-size:12px;font-family:sans-serif;font-weight:100;text-transform:uppercase;font-size:10px; margin-bottom:10px;">
+                   This email was sent to: smileydavis@email.com<br>
+
+                 </h6>
+               </td>
+             </tr>
+           </table>
+           <table class="oneHundred" cellspacing="0" cellpadding="0" width="80%" align="center" style="border-bottom:1px solid #d1d1d1;">
+             <tr>
+               <td align="center">
+                 <h6 style="font-size:12px;font-family:sans-serif;font-weight:100;text-transform:uppercase;font-size:10px;margin-top:10px; margin-bottom:10px;line-height:120%;"> National Basketball Association,<br>
+                   600 Third Avenue,<br>
+                   New York, NY 10022 United States
+                 </h6>
+               </td>
+             </tr>
+
+
+           </table>
+           <table class="oneHundred" cellspacing="0" cellpadding="0" width="80%" align="center" style="border-bottom:1px solid #d1d1d1;">
+             <tr>
+               <td align="center">
+                 <h6 style="font-size:12px;font-family:sans-serif;font-weight:100;text-transform:uppercase;font-size:10px;margin-top:10px;line-height:120%;"> NBA.COM PRIVACY POLICY TERMS OF USE<br>
+                   THE NBA IDENTIFICATIONS ARE THE INTELLECTUAL PROPERTY OF THE NBA AND ITS TEAM.
+                   <br>
+                   © 2020 NBA PROPERTIES, INC.
+                 </h6>
+               </td>
+             </tr>
+
+
+           </table>
+         </td>
+       </tr>
+
+     </table>
+
+
+     </td>
+     </tr>
+     </table>
+
+   </body>
+
+ </html>
