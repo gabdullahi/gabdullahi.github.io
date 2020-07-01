@@ -1,0 +1,317 @@
+<html lang="en" >
+<head>
+	<title></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style type="text/css">
+        
+        @media only screen and (min-width: 600px) {
+
+  .fixedWidth{
+   width:600px; 
+   margin:0 auto;
+  }
+}
+	</style>
+</head>
+<body style="height: auto; min-height: auto;">
+<table bgcolor="white" cellpadding="0" cellspacing="0" class="fixedWidth" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" bgcolor="white" cellpadding="0" cellspacing="0" width="80%">
+				<tbody>
+					<tr>
+						<td>
+						<table align="center" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+									<td align="center"><img height="auto" src="https://ci5.googleusercontent.com/proxy/kp01E5WYSx9KhFRxasug4Rcx4pZhh-qey_SOgTW3rEnhmiOflfO1GEqYtNxU7ngCb4GOXzaD1MC3WR6wt-RdeThF7Ce4N-mssSQMCkedKqUvqQUUDPV7eLMclz8yYTc=s0-d-e1-ft#https://orderv1strg.blob.core.windows.net/assets/order/email/logo_fglpyr.jpg" width="250" /></td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table align="center" bgcolor="" cellpadding="0" cellspacing="0" width="90%">
+							<tbody>
+								<tr>
+									<td align="center">
+									<h1 style="margin-top:15px;font-family:sans-serif;text-transform:uppercase;color:#451400;">Your order is in,<br />
+									Smiley Davis</h1>
+									</td>
+								</tr>
+								<tr>
+									<td align="center"><img height="auto" src="https://ci6.googleusercontent.com/proxy/sbAGmkERmmBViXpvT8X5jyp01mAAXLrN2N1ZD8iKMkEzLm4EFctBZ9BKba_9k3gtcXBIVj3YSNbd6PBLYqBzKmWOeQ7P_YqucT6y0c8CkE9K3iGEKjN1AFbyJ-J6EQ=s0-d-e1-ft#https://orderv1strg.blob.core.windows.net/assets/order/email/bag_gnro0t.jpg" width="100%" /></td>
+								</tr>
+								<tr>
+									<td align="center">
+									<h3 style="color:#451400;margin-top:0px;font-family:sans-serif;text-transform:uppercase;">Estimated pick up time:</h3>
+
+									<h1 style="color:#451400;margin-top:0px;margin-bottom:15px;font-size:60px;font-family:sans-serif;text-transform:uppercase;">04:15 pm</h1>
+
+									<h4 style="color:#451400;margin-top:0px;font-family:sans-serif;text-transform:capitalize;">06/05/2020 (today)</h4>
+									</td>
+								</tr>
+								<tr>
+									<td align="center">
+									<table align="center" bgcolor="" cellpadding="0" cellspacing="0" width="65%">
+										<tbody>
+											<tr>
+												<td align="center">
+												<h5 style="color:#451400;margin-top:0px;margin-bottom:40px;font-family:sans-serif;font-weight:500;">Having Trouble?</h5>
+												</td>
+												<td align="center">
+												<h4 style="color:#451400;margin-top:0px;margin-bottom:40px;font-family:sans-serif;text-transform:uppercase;text-decoration:underline;color:#A76721">Contact Support</h4>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table align="center" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+									<td align="center"><img height="125" src="https://ci6.googleusercontent.com/proxy/ksIUlQbwpjkuQY928WYtWqxpkIhEZ37qFscbG66zMgI7FumQVGJKH-RvPU7XwLslQ9Ncl6xv-9ixpO4I68gSIg2sHmyBtHi7naNFwImiLR51M2dhoek_oIoDda_jiCiV1JLmOqVe8USrKXD95eDrbg8=s0-d-e1-ft#https://orderv1strg.blob.core.windows.net/assets/order/email/missing_out_on_rewards_mjoadd.jpg" width="100%" /></td>
+								</tr>
+								<tr>
+									<td align="center"><img height="125" src="https://ci5.googleusercontent.com/proxy/BTcvRZbK9FcXrThU9j-9gxt98H5jaz6FETPVxYpHi7RF5ow18kQJflSuxlQS_Dha4cf8iVNS-rPlz5ibDIIjm3Vu0o5gNhFE5Z9iSVASVpcQfJJTRUPXVmNgDErvGToJ=s0-d-e1-ft#https://orderv1strg.blob.core.windows.net/assets/order/email/map2x_qi0k7v.jpg" width="100%" /></td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table align="center" bgcolor="" cellpadding="0" cellspacing="0" width="90%">
+							<tbody>
+								<tr>
+									<td align="center">
+									<h4 style="margin-top:20px;font-family:sans-serif;text-transform:uppercase;color:#451400;">Where am I picking up?</h4>
+									</td>
+								</tr>
+								<tr>
+									<td align="center">
+									<h2 style="font-family:sans-serif;text-transform:capitalize;line-height:140%;margin-top:0px;color:#451400;">Portland Marginal Way<br />
+									195 Kennebec St<br />
+									Portland, ME 04101-1904</h2>
+									</td>
+								</tr>
+								<tr>
+									<td align="center">
+									<h5 style="font-family:sans-serif; font-weight:500;margin-top:0px;line-height:150%;">Skip the line. Go straight to the<br />
+									counter to pick up your order.</h5>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table align="center" bgcolor="" cellpadding="0" cellspacing="0" width="90%">
+							<tbody>
+								<tr>
+									<td>
+									<table align="center" cellpadding="0" cellspacing="0">
+										<tbody>
+											<tr>
+												<td>
+												<h3 style="margin-top:10px;color:#451400;font-family:sans-serif;">Order Details</h3>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									&nbsp;
+
+									<table cellpadding="0" cellspacing="0" style="border-bottom:1px solid #A89784;" width="100%">
+										<tbody>
+											<tr>
+												<td style="float:left;">
+												<h2 style="float:left;font-family:sans-serif;margin-bottom:10px;margin-top:0px;color:#A89784;">Smiley Davis</h2>
+												</td>
+												<td style="float:right;">
+												<h2 style="float:right;font-family:sans-serif;margin-bottom:10px;margin-top:0px;color:#A89784;">$8.85</h2>
+												</td>
+                                            </tr>
+										</tbody>
+									</table>
+
+									<table cellpadding="0" cellspacing="0" style="border-bottom:1px solid #A89784;" width="100%">
+										<tbody>
+											<tr>
+												<td>
+												<h3 style="font-family:sans-serif;margin-top:10px;margin-bottom:10px;color:#451400;">Chicken Burrito</h3>
+
+												<h5 style="color:#451400;font-weight:400;font-family:sans-serif;margin-top:0px;margin-bottom:15px;line-height:150%;">Queso Blanco ($1.35), Fresh Tomato Salsa, Sour Cream, Romaine Lettuce, White Rice</h5>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table cellpadding="0" cellspacing="0" style="border-bottom:1px solid #A89784;" width="100%">
+										<tbody>
+											<tr>
+												<td width="50%">
+												<h4 style="font-family:sans-serif;margin-bottom:10px;margin-top:20px;margin-bottom:0px;font-weight:400;">Bag Total</h4>
+												</td>
+												<td width="50%">
+												<h4 style="float:right;font-family:sans-serif;margin-bottom:10px;color:#451400;margin-top:20px;margin-bottom:0px;font-weight:900;">$8.85</h4>
+												</td>
+											</tr>
+											<tr>
+												<td width="50%">
+												<h4 style="font-family:sans-serif;margin-bottom:10px;color:#451400;margin-top:10px;margin-bottom:0px;font-weight:400;">Subtotal</h4>
+												</td>
+												<td width="50%">
+												<h4 style="float:right;font-family:sans-serif;margin-bottom:10px;color:#451400;margin-top:10px;margin-bottom:0px;font-weight:900;">$8.85</h4>
+												</td>
+											</tr>
+											<tr>
+												<td width="50%">
+												<h4 style="font-family:sans-serif;margin-bottom:10px;color:#451400;margin-top:10px;margin-bottom:25px;font-weight:400;">Tax</h4>
+												</td>
+												<td width="50%">
+												<h4 style="float:right;font-family:sans-serif;margin-bottom:10px;color:#451400;margin-top:10px;margin-bottom:25px;font-weight:900;">$0.71</h4>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table cellspacing="0" cellpadding="0" width="100%">
+										<tbody>
+											<tr>
+												<td width="50%">
+												<h2 style="font-family:sans-serif;margin-top:10px;margin-bottom:10px;color:#451400;">Total</h2>
+												</td>
+												<td width="50%">
+												<h2 style="float:right;font-family:sans-serif;margin-top:10px;margin-bottom:10px;color:#451400;">$8.85</h2>
+												</td>
+											</tr>
+											<tr>
+												<td width="50%">
+												<h5 style="font-family:sans-serif;margin-bottom:10px;margin-top:10px;margin-bottom:0px;font-weight:500;color:#451400;">Payment Method<br />
+												(Card Ending In):</h5>
+												</td>
+												<td width="50%">
+												<h4 style="float:right;font-family:sans-serif;color:#451400;margin-top:20px;margin-bottom:0px;font-weight:900;">XXXXXXXXXXXX****</h4>
+												</td>
+											</tr>
+											<tr>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table align="center" bgcolor="" cellpadding="0" cellspacing="0" style="border-bottom:2px solid #AA9C95;" width="100%">
+							<tbody>
+								<tr>
+									<td>
+									<table align="center" cellpadding="0" cellspacing="0">
+										<tbody>
+											<tr>
+												<td><img height="auto" src="https://ci6.googleusercontent.com/proxy/Ela5Z-OJ0JGA1omMfir-b0lMtqQ6mhPN0Lhh2JTfhu6sDu8k2Hx2DMHM1Ecj06uqMijpHxtBTcYtUgzjRiRHMHG4Qr6o9utN7PaNBjZWW2eAnjpRIHgnCBci6qXIquPX3bk=s0-d-e1-ft#https://orderv1strg.blob.core.windows.net/assets/order/email/burrito_gqrien.jpg" style="margin-top:25px;" width="100%" /></td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table align="center" bgcolor="" width="100%">
+										<tbody>
+											<tr>
+												<td align="center">
+												<h4 style="font-family:sans-serif;margin-bottom:10px;color:#451400;line-height:140%;">How was your visit? Tell us for a chance to win FREE Chipotle for a year!</h4>
+
+												<h3 style="text-transform:uppercase;color:white;font-weight:600;font-family:sans-serif;margin-top:20px;margin-bottom:25px;line-height:150%;background:#AC2017;width:200px;padding:13px;">take the survey</h3>
+
+												<h6 style="color:#451400;font-weight:600;font-family:sans-serif;margin-top:0px;margin-bottom:15px;font-size:11.9px;">For complete rules visit our website.</h6>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+
+									<table align="center" width="90%">
+										<tbody>
+											<tr>
+												<td>
+												<table cellpadding="0" cellspacing="0" width="100%">
+													<tbody>
+														<tr>
+															<td>
+															<h5 style="color:#451400;font-weight:600;font-family:sans-serif;margin-top:30px;margin-bottom:10px;margin-left:2px;margin-right:2px;text-transform:uppercase;">Download our app</h5>
+															</td>
+															<td>
+															<h5 style="color:#451400;font-weight:600;font-family:sans-serif;margin-top:30px;margin-bottom:10px;margin-left:2px;margin-right:2px;text-transform:uppercase;">Catering</h5>
+															</td>
+															<td>
+															<h5 style="color:#451400;font-weight:600;font-family:sans-serif;margin-top:30px;margin-bottom:10px;margin-left:2px;margin-right:2px;text-transform:uppercase;">Delivery</h5>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+											<tr>
+												<td align="center">
+												<h6 style="margin-top:10px;font-weight:400;font-family:sans-serif;margin-bottom:10px;font-size:12.5px;">Cultivate a Better World</h6>
+												</td>
+											</tr>
+											<tr>
+												<td>
+												<table align="center" width="150">
+													<tbody>
+														<tr>
+															<td align="center"><img height="25" src="https://ci5.googleusercontent.com/proxy/yjXgTTKD0aTnh-vmAqrVstuuvibYDEyYRgGaAlHVDAz2x_sRNtM5fESc5MSCv4yttNQrekqfC9ejGlpYCUP6aHBO1jBsPaILIQVXaGiKev3xf07Cu7XgLVB1gdF0hUxOvvgGNA=s0-d-e1-ft#https://orderv1strg.blob.core.windows.net/assets/order/email/instagram_j6dojt.jpg" width="25" /></td>
+															<td align="center"><img height="23" src="https://ci5.googleusercontent.com/proxy/G6pC3AV9Gl7oP0GYjdgAWxkY489Dg1hK2AIY9CVdO_i8aqjTTw2d8UvyeVywFeFwL4leQbEN3gh1qLlydlEIjQEF59RjNcfCdkZPLsisP-r7FZ7_3O-ii64aHEe8XwA347_Q=s0-d-e1-ft#https://orderv1strg.blob.core.windows.net/assets/order/email/facebook_hqrx99.jpg" width="12" /></td>
+															<td align="center"><img height="24" src="https://ci6.googleusercontent.com/proxy/Jqff27PcFBuhR6Pixn3m4613erTZTEEhq6ofL2dkaymzW0wS_miJGI1yxmwgF7IPvCFDY4J3vYGbQQEfDhEBDnlMT06FuXhSkAWuWUUJm3OkpVUELCqRC7rt-byS9YS9YP4=s0-d-e1-ft#https://orderv1strg.blob.core.windows.net/assets/order/email/twitter_ef3ekq.jpg" width="29" /></td>
+														</tr>
+														<tr>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+											<tr>
+												<td align="center">
+												<h4 style="color:#451400;font-weight:600;font-family:sans-serif;text-transform:uppercase;margin-top:10px;">Chipotle.com</h4>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table align="center" width="100%">
+							<tbody>
+								<tr>
+									<td align="center">
+									<h6 style="margin-top:10px;font-weight:400;font-family:sans-serif;margin-bottom:0px;line-height:160%;">This email was sent to smileydavis@email.com<br />
+									<span style="text-decoration:underline;">Customer Service</span></h6>
+									</td>
+								</tr>
+								<tr>
+									<td align="center">
+									<h6 style="margin-top:0px;font-weight:400;font-family:sans-serif;margin-bottom:0px; line-height:130%;">Chipotle Mexican Grill, Inc &middot; 610 Newport Center<br />
+									Drive &middot; Newport Beach, CA 92660 &middot; USA<br />
+									&copy; 2020 Chipotle Mexican Grill, Inc.</h6>
+									</td>
+								</tr>
+								<tr>
+									<td align="center">
+									<h6 style="margin-top:10px;font-weight:400;font-family:sans-serif;margin-bottom:0px; line-height:130%;">* Rewards are for regular-priced entree items only and expire after 60 days. Restrictions apply; void where prohibited. Full program terms <span style="text-decoration:underline;">here</span>.</h6>
+
+									<h6 style="margin-top:10px;font-weight:400;font-family:sans-serif;margin-bottom:0px; line-height:130%; text-decoration:underline;">Chipotle Rewards Terms of Use</h6>
+
+									<h6 style="margin-top:10px;font-weight:400;font-family:sans-serif;margin-bottom:50px; line-height:130%;text-decoration:underline;">Privacy Policy</h6>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
